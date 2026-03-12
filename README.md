@@ -4,8 +4,7 @@
 > **Competition:** RMIT Business Analytics Champion Season 6  
 > **Round:** Round 1 — October 11, 2025  
 > **Time Constraint:** 120 minutes  
-> **Dataset Size:** 9,173 records across 7 columns
-> The dataset used in this project originates from the RBAC Season 6 competition.
+> **Dataset Size:** 9,173 records across 7 columns. The dataset used in this project originates from the RBAC Season 6 competition.
 Due to competition confidentiality rules, the dataset cannot be publicly shared.
 ---
 
