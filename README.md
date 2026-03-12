@@ -116,12 +116,11 @@ Each cluster profiled by:
 
 This project was completed as a team effort for RMIT Business Analytics Champion Season 6.
 
-| Contributor | Role | Contact Information
-|-------------|------|
-| Nguyễn Thành Phát | Full technical pipeline — data cleaning, EDA, K-Means clustering, PCA/t-SNE, segment profiling | nguyenthanhphat0355@gmail.com
-| Phạm Nguyễn Minh Khoa| Cross statistical results verification and report business implication for later strategies | phamnguyenminhkhoa1106@gmail.com
-| Đặng Khánh Ngọc, Lê Anh Khoa | Sales and Marketing strategies covering inventory management and promotions | dangngoc170506@gmail.com, leanhkhoabanana2006@gmail.com
-
+| Contributor | Role | Contact |
+|-------------|------|---------|
+| Nguyễn Thành Phát | Full technical pipeline — data cleaning, EDA, K-Means clustering, PCA/t-SNE, segment profiling | nguyenthanhphat0355@gmail.com |
+| Phạm Nguyễn Minh Khoa | Cross statistical results verification and report business implication for later strategies | phamnguyenminhkhoa1106@gmail.com |
+| Đặng Khánh Ngọc, Lê Anh Khoa | Sales and Marketing strategies covering inventory management and promotions | dangngoc170506@gmail.com, leanhkhoabanana2006@gmail.com |
 
 > *Note: Code and technical analysis by Nguyễn Thành Phát. Business recommendations section co-developed with teammates based on model outputs.*
 
