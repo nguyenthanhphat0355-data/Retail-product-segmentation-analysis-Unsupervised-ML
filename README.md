@@ -112,20 +112,6 @@ Each cluster profiled by:
 
 ---
 
-## Repository Structure
-
-```
-retail-segmentation-rbac/
-│
-├── README.md
-├── code/
-│   └── segmentation_notebook.pdf     # Full annotated code output
-└── report/
-    └── case_submission.pdf           # Team submission report
-```
-
----
-
 ## Team & Credits
 
 This project was completed as a team effort for RMIT Business Analytics Champion Season 6.
