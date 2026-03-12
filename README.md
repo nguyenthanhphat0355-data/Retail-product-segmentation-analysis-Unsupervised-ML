@@ -133,7 +133,7 @@ This project was completed as a team effort for RMIT Business Analytics Champion
 | Contributor | Role |
 |-------------|------|
 | Nguyễn Thành Phát | Full technical pipeline — data cleaning, EDA, K-Means clustering, PCA/t-SNE, segment profiling |
-| Phạm Nguyễn Minh Khoa| Cross statistical results verification and Business implication |
+| Phạm Nguyễn Minh Khoa| Cross statistical results verification and report business implication for later strategies |
 | Đặng Khánh Ngọc, Lê Anh Khoa | Sales and Marketing strategies covering inventory management and promotions |
 
 > *Note: Code and technical analysis by Nguyễn Thành Phát. Business recommendations section co-developed with teammates based on model outputs.*
